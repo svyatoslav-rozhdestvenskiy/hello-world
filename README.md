@@ -6,3 +6,5 @@ Hello
 new commit
 
 new branch
+
+new merge
